@@ -1,0 +1,16 @@
+3b94c7d HEAD@{0}: checkout: moving from feature/header to master
+1b0434a HEAD@{1}: commit: Выгрузка логов работы с репозиторием
+31a09c5 HEAD@{2}: commit: Выгрузка логов работы с репозиторием
+3b94c7d HEAD@{3}: reset: moving to HEAD~1
+164157c HEAD@{4}: commit: Добавлено чё то там
+3b94c7d HEAD@{5}: checkout: moving from master to feature/header
+3b94c7d HEAD@{6}: commit: Добавлены ошибки
+cacb150 HEAD@{7}: checkout: moving from feature/footer to master
+cacb150 HEAD@{8}: checkout: moving from master to feature/footer
+cacb150 HEAD@{9}: checkout: moving from master to master
+cacb150 HEAD@{10}: commit: Добавлены копюрайты и всё такое
+44faf11 HEAD@{11}: merge feature/navigation: Fast-forward
+0c4c57a HEAD@{12}: checkout: moving from feature/navigation to master
+44faf11 HEAD@{13}: commit: Добавиби навигацию типо
+0c4c57a HEAD@{14}: checkout: moving from master to feature/navigation
+0c4c57a HEAD@{15}: commit (initial): Добавили преколы
